@@ -1,10 +1,14 @@
 package org.itacademy.pages;
 
+import org.apache.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
+
 public class LoginPage extends BasePage{
+
+    private Logger logger = Logger.getLogger(LoginPage.class);
 
     private static final By LOGIN_FIELD_LOCATOR = By.xpath("//input[@id='user_login']");
     private static final By PASSWORD_FIELD_LOCATOR = By.xpath("//input[@id='user_pass']");
@@ -16,8 +20,15 @@ public class LoginPage extends BasePage{
         super(webDriver);
     }
 
+    @Override
+    public boolean isOpened() {
+        return false;
+    }
+
     public void clickOnLogInButton(){
+        logger.debug("Looking for Log in button");
         WebElement logInButton = webDriver.findElement(LOG_IN_BUTTON_LOCATOR);
+        logger.debug("Clicking on Log in button");
         logInButton.click();
     }
 
@@ -27,8 +38,11 @@ public class LoginPage extends BasePage{
     }
 
     public void enterUserData(String login, String password){
+        logger.debug("looking for Login input field");
         WebElement loginInput = webDriver.findElement(LOGIN_FIELD_LOCATOR);
+        logger.debug("looking for Password input field");;
         WebElement passwordInput = webDriver.findElement(PASSWORD_FIELD_LOCATOR);
+        logger.debug("Entering login and password");
         loginInput.sendKeys(login);
         passwordInput.sendKeys(password);
     }

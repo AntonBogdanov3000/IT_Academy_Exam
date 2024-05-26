@@ -15,4 +15,9 @@ public class CommentsPage extends BasePage{
     public CommentsPage(WebDriver webDriver) {
         super(webDriver);
     }
+
+    @Override
+    public boolean isOpened() {
+        return false;
+    }
 }

@@ -15,4 +15,9 @@ public class MediaPage extends BasePage{
     public MediaPage(WebDriver webDriver) {
         super(webDriver);
     }
+
+    @Override
+    public boolean isOpened() {
+        return false;
+    }
 }

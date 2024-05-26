@@ -13,4 +13,5 @@ public abstract class BasePage {
     public BasePage(WebDriver webDriver){
         this.webDriver = webDriver;
     }
+    public abstract boolean isOpened();
 }

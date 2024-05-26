@@ -15,4 +15,9 @@ public class PostsPage extends BasePage{
     public PostsPage(WebDriver webDriver) {
         super(webDriver);
     }
+
+    @Override
+    public boolean isOpened() {
+        return false;
+    }
 }
