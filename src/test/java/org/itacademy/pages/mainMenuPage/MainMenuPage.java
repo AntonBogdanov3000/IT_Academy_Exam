@@ -1,6 +1,7 @@
-package org.itacademy.pages;
+package org.itacademy.pages.mainMenuPage;
 
 import org.apache.log4j.Logger;
+import org.itacademy.pages.basePage.BasePage;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -8,6 +9,7 @@ import org.openqa.selenium.WebElement;
 public class MainMenuPage extends BasePage {
 
     private Logger logger = Logger.getLogger(MainMenuPage.class);
+
     public MainMenuPage(WebDriver webDriver) {
         super(webDriver);
     }

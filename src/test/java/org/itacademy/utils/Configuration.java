@@ -18,4 +18,8 @@ public class Configuration {
         }
         return properties;
     }
+
+    public static String getScreenShotFolder(){
+        return getProperties().getProperty("screenShots");
+    }
 }

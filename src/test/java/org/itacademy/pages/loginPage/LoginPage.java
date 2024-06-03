@@ -1,12 +1,13 @@
-package org.itacademy.pages;
+package org.itacademy.pages.loginPage;
 
 import org.apache.log4j.Logger;
+import org.itacademy.pages.basePage.BasePage;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
 
-public class LoginPage extends BasePage{
+public class LoginPage extends BasePage {
 
     private Logger logger = Logger.getLogger(LoginPage.class);
 
@@ -22,7 +23,8 @@ public class LoginPage extends BasePage{
 
     @Override
     public boolean isOpened() {
-        return false;
+        WebElement logInButton = webDriver.findElement(LOG_IN_BUTTON_LOCATOR);
+        return logInButton.isDisplayed();
     }
 
     public void clickOnLogInButton(){
