@@ -31,7 +31,7 @@ public class BaseTest {
     protected JsonUtil json;
 
 
-    @BeforeTest
+    @BeforeClass
     public void start(){
         logger.info("Before test");
         webDriver = Browser.getWebDriver();

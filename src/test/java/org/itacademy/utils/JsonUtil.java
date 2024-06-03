@@ -31,5 +31,9 @@ public class JsonUtil {
         logger.debug("Getting User model from Json");
         return new Gson().fromJson(getDataFromJson("src/test/resources/UserData.json"), User.class);
     }
+    public User getIncorrectUserModel(){
+        logger.debug("Getting User model from Json");
+        return new Gson().fromJson(getDataFromJson("src/test/resources/UserIncorrect.json"), User.class);
+    }
 
 }
