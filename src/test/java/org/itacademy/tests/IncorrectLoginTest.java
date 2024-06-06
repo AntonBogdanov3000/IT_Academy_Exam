@@ -17,6 +17,6 @@ public class IncorrectLoginTest extends BaseTest{
         loginPage.clickOnLogInButton();
         Assert.assertTrue(loginPage.isOpened());
         Browser.takeScreenshot();
-        logger.info("Test case is finished");
+        logger.info("Test incorrect login is finished");
     }
 }

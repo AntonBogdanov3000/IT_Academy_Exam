@@ -25,15 +25,15 @@ public class Browser {
 
         public static WebDriver getWebDriver(){
             if(webDriver == null) {
+                logger.info("Driver init");
                 init();
             }
-
             return webDriver;
         }
 
         public static void init(){
+            logger.debug("Init method of browser");
             webDriver = BrowserFactory.createDriver(BrowserType.valueOf(Configuration.getProperties().getProperty("browser")));
-            System.setProperty("webdriver.chrome.driver","/Users/Nastya/tools/chromedriver-mac-x64");
             webDriver.get("https://wordpress-test-app-for-selenium.azurewebsites.net/wp-admin");
             webDriver.manage().timeouts().implicitlyWait(Duration.ofSeconds(DEFAULT_WAIT_IN_SECONDS));
             webDriver.manage().window().maximize();

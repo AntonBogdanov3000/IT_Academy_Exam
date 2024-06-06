@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Suite1" verbose="1">
+    <test name="Media" >
+        <classes>
+            <class name="org.itacademy.tests.MediaUploadTest"/>
+            <class name="org.itacademy.tests.AuthentificationTest"/>
+            <class name="org.itacademy.tests.PageCreateTest"/>
+            <class name="org.itacademy.tests.PostCreateTest"/>
+            <class name="org.itacademy.tests.IncorrectLoginTest"/>
+        </classes>
+    </test>
+</suite>

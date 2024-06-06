@@ -27,12 +27,19 @@ public class MediaUploadTest extends BaseTest {
         logger.info("Test upload media is ended");
     }
 
+
     @Test(priority = 2, expectedExceptions = StaleElementReferenceException.class)
     public void deleteMedia() {
-        logger.info("Test delete media is started");
+        logger.info("Test delete uploaded media is started");
+        loginPage.enterUserData(json.getUserModel().getLogin(), json.getUserModel().getPassword());
+        loginPage.clickOnLogInButton();
+        Assert.assertTrue(mainMenuPage.isOpened());
+        mainMenuPage.sideMenu.clickMediaButton();
+        Assert.assertTrue(mediaPage.isOpened());
         mediaPage.getCreatedPost();
         mediaPage.deleteCreatedMedia();
         Browser.takeScreenshot();
         Assert.assertTrue(mediaPage.isPostDeleted());
+        logger.info("Test delete uploaded media is ended");
     }
 }

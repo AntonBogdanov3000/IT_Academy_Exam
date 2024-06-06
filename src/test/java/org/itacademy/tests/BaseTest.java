@@ -19,7 +19,7 @@ public class BaseTest {
 
     private Logger logger = Logger.getLogger(BaseTest.class);
 
-    protected static WebDriver webDriver;
+    WebDriver webDriver ;
     protected LoginPage loginPage;
     protected MainMenuPage mainMenuPage;
     protected MediaPage mediaPage;
@@ -31,15 +31,10 @@ public class BaseTest {
     protected JsonUtil json;
 
 
-    @BeforeClass
-    public void start(){
-        logger.info("Before test");
-        webDriver = Browser.getWebDriver();
-    }
-
-    @BeforeClass
+    @BeforeMethod
     public void startTest(){
-        logger.info("Before class");
+        logger.info("Before test method");
+        webDriver = Browser.getWebDriver();
         loginPage = new LoginPage(webDriver);
         mainMenuPage = new MainMenuPage(webDriver);
         mediaPage = new MediaPage(webDriver);
@@ -51,9 +46,9 @@ public class BaseTest {
         json = new JsonUtil();
     }
 
-    @AfterClass
+    @AfterMethod
     public void endTest(){
-        logger.info("After test");
+        logger.info("After test method");
         Browser.close();
     }
 }

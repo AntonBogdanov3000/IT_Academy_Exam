@@ -22,6 +22,10 @@ public class AuthentificationTest extends BaseTest {
 
     @Test
     public void testLogOut(){
+        loginPage.enterUserData(json.getUserModel().getLogin(), json.getUserModel().getPassword());
+        loginPage.clickOnLogInButton();
+        Assert.assertTrue(mainMenuPage.isOpened());
+        logger.info("Test case is finished");
         mainMenuPage.header.clickAdminMenu();
         mainMenuPage.header.clickLogout();
         Assert.assertTrue(loginPage.isOpened());
