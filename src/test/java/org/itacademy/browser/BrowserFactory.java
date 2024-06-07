@@ -5,6 +5,7 @@ import org.apache.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.remote.RemoteWebDriver;
 
 
 public class BrowserFactory {
@@ -13,14 +14,12 @@ public class BrowserFactory {
 
     public static WebDriver createDriver(BrowserType browserType){
         logger.info("Test try runs on browser : " + browserType);
-        WebDriver driver = null;
-       try {
            if (browserType == BrowserType.CHROME) {
                WebDriverManager.chromedriver().setup();
-               driver = new ChromeDriver();
-           }
-       }catch (Exception e){}
-        logger.debug("Driver " + driver);
-        return driver;
+               return new ChromeDriver();
+           }else
+               return null;
+
+        //logger.debug("Driver " + driver);
     }
 }
