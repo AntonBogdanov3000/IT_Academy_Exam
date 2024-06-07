@@ -14,11 +14,12 @@ public class BrowserFactory {
     public static WebDriver createDriver(BrowserType browserType){
         logger.info("Test try runs on browser : " + browserType);
         WebDriver driver = null;
-
-        if(browserType == BrowserType.CHROME){
-                WebDriverManager.firefoxdriver().setup();
-                driver = new FirefoxDriver();
-        }
+       try {
+           if (browserType == BrowserType.CHROME) {
+               WebDriverManager.chromedriver().setup();
+               driver = new ChromeDriver();
+           }
+       }catch (Exception e){}
         logger.debug("Driver " + driver);
         return driver;
     }
