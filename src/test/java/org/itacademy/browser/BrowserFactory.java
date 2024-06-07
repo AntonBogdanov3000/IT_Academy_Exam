@@ -4,6 +4,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
 
 
 public class BrowserFactory {
@@ -15,9 +16,8 @@ public class BrowserFactory {
         WebDriver driver = null;
 
         if(browserType == BrowserType.CHROME){
-            //WebDriverManager.chromedriver().setup();
-                WebDriverManager.chromedriver().remoteAddress("172.17.0.2");
-                driver = new ChromeDriver();
+                WebDriverManager.firefoxdriver().setup();
+                driver = new FirefoxDriver();
         }
         logger.debug("Driver " + driver);
         return driver;
