@@ -12,23 +12,24 @@ public class AuthentificationTest extends BaseTest {
 
     @Test
     public void testLogIn(){
-        logger.info("Test is started");
+        logger.info("Test login is started");
         loginPage.enterUserData(json.getUserModel().getLogin(), json.getUserModel().getPassword());
         loginPage.clickOnLogInButton();
         Assert.assertTrue(mainMenuPage.isOpened());
         Browser.takeScreenshot();
-        logger.info("Test case is finished");
+        logger.info("Test login is finished");
     }
 
     @Test
     public void testLogOut(){
+        logger.info("Test logout is started");
         loginPage.enterUserData(json.getUserModel().getLogin(), json.getUserModel().getPassword());
         loginPage.clickOnLogInButton();
         Assert.assertTrue(mainMenuPage.isOpened());
-        logger.info("Test case is finished");
         mainMenuPage.header.clickAdminMenu();
         mainMenuPage.header.clickLogout();
         Assert.assertTrue(loginPage.isOpened());
         Browser.takeScreenshot();
+        logger.info("Test logout is finished");
     }
 }

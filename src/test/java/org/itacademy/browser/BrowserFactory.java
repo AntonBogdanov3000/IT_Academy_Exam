@@ -15,7 +15,8 @@ public class BrowserFactory {
         WebDriver driver = null;
 
         if(browserType == BrowserType.CHROME){
-            WebDriverManager.chromedriver().setup();
+            //WebDriverManager.chromedriver().setup();
+                WebDriverManager.chromedriver().remoteAddress("172.17.0.2");
                 driver = new ChromeDriver();
         }
         logger.debug("Driver " + driver);
