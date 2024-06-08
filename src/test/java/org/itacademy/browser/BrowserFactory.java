@@ -15,6 +15,7 @@ public class BrowserFactory {
         WebDriver webDriver = null;
            if (browserType == BrowserType.CHROME) {
                //WebDriverManager.chromedriver().setup();
+               System.setProperty("webdriver.chrome.driver","/Users/Nastya/tools/chromedriver-mac-x64/chromedriver");
                webDriver = new ChromeDriver();
            }
         logger.debug("Driver " + webDriver);
