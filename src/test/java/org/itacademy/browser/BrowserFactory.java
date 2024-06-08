@@ -14,7 +14,7 @@ public class BrowserFactory {
         logger.info("Test try runs on browser : " + browserType);
         WebDriver webDriver = null;
            if (browserType == BrowserType.CHROME) {
-               WebDriverManager.chromedriver().setup();
+               //WebDriverManager.chromedriver().setup();
                webDriver = new ChromeDriver();
            }
         logger.debug("Driver " + webDriver);
