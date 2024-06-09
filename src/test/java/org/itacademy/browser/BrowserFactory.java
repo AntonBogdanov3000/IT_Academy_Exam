@@ -13,7 +13,7 @@ public class BrowserFactory {
         logger.info("Test try runs on browser : " + browserType);
         WebDriver webDriver = null;
            if (browserType == BrowserType.CHROME) {
-               //System.setProperty("webdriver.chrome.driver","/Users/Nastya/tools/chromedriver-mac-x64/chromedriver");
+               System.setProperty("webdriver.chrome.driver", "/Users/Nastya/tools/chromedriver-mac-x64/chromedriver");
                webDriver = new ChromeDriver();
            }
         logger.debug("Driver " + webDriver);
