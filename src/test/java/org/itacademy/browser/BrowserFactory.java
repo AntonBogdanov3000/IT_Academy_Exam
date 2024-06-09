@@ -15,10 +15,8 @@ public class BrowserFactory {
         logger.info("Test try runs on browser : " + browserType);
         WebDriver webDriver = null;
            if (browserType == BrowserType.CHROME) {
-               //WebDriverManager.chromedriver().setup();
-               //System.setProperty("webdriver.chrome.driver","/Users/Nastya/tools/chromedriver-mac-x64/chromedriver");
-               System.setProperty("webdriver.gecko.driver", "/Users/Nastya/tools/geckodriver/geckodriver");
-               webDriver = new FirefoxDriver();
+               System.setProperty("webdriver.chrome.driver","/Users/Nastya/tools/chromedriver-mac-x64/chromedriver");
+               webDriver = new ChromeDriver();
            }
         logger.debug("Driver " + webDriver);
                return webDriver;
