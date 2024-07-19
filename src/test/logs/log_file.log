@@ -1,0 +1,886 @@
+24/06/06 22:03:57 INFO BaseTest: Before test method
+24/06/06 22:03:57 INFO Browser: Driver init
+24/06/06 22:03:57 DEBUG Browser: Init method of browser
+24/06/06 22:03:57 INFO BrowserFactory: Test try runs on browser : CHROME
+24/06/06 22:04:01 DEBUG BrowserFactory: Driver ChromeDriver: chrome on mac (77ad8f6e1e34f525a5846b13dae32dbe)
+24/06/06 22:04:05 INFO Browser: Browser is started
+24/06/06 22:04:05 INFO MediaUploadTest: Test upload media is started
+24/06/06 22:04:05 DEBUG JsonUtil: Getting User model from Json
+24/06/06 22:04:05 DEBUG JsonUtil: Getting data from Json
+24/06/06 22:04:05 DEBUG JsonUtil: Getting User model from Json
+24/06/06 22:04:05 DEBUG JsonUtil: Getting data from Json
+24/06/06 22:04:05 DEBUG LoginPage: looking for Login input field
+24/06/06 22:04:05 DEBUG LoginPage: looking for Password input field
+24/06/06 22:04:05 DEBUG LoginPage: Entering login and password
+24/06/06 22:04:06 DEBUG LoginPage: Looking for Log in button
+24/06/06 22:04:06 DEBUG LoginPage: Clicking on Log in button
+24/06/06 22:04:11 INFO MainMenuPage: Check Main menu page is opened
+24/06/06 22:04:15 INFO MediaPage: Check Media page is opened
+24/06/06 22:04:15 DEBUG MediaPage: Looking for Add button
+24/06/06 22:04:15 DEBUG MediaPage: Clicking on Add button
+24/06/06 22:04:25 INFO MediaPage: Check Media page is opened
+24/06/06 22:04:25 INFO MediaUploadTest: Test upload media is ended
+24/06/06 22:04:25 INFO BaseTest: After test method
+24/06/06 22:04:25 INFO Browser: Browser is closed
+24/06/06 22:04:25 INFO BaseTest: Before test method
+24/06/06 22:04:25 INFO Browser: Driver init
+24/06/06 22:04:25 DEBUG Browser: Init method of browser
+24/06/06 22:04:25 INFO BrowserFactory: Test try runs on browser : CHROME
+24/06/06 22:04:27 DEBUG BrowserFactory: Driver ChromeDriver: chrome on mac (ae5c07762d5dfe1c7f1ce72b719f21ee)
+24/06/06 22:04:31 INFO Browser: Browser is started
+24/06/06 22:04:31 INFO MediaUploadTest: Test delete uploaded media is started
+24/06/06 22:04:31 DEBUG JsonUtil: Getting User model from Json
+24/06/06 22:04:31 DEBUG JsonUtil: Getting data from Json
+24/06/06 22:04:31 DEBUG JsonUtil: Getting User model from Json
+24/06/06 22:04:31 DEBUG JsonUtil: Getting data from Json
+24/06/06 22:04:31 DEBUG LoginPage: looking for Login input field
+24/06/06 22:04:31 DEBUG LoginPage: looking for Password input field
+24/06/06 22:04:31 DEBUG LoginPage: Entering login and password
+24/06/06 22:04:31 DEBUG LoginPage: Looking for Log in button
+24/06/06 22:04:31 DEBUG LoginPage: Clicking on Log in button
+24/06/06 22:04:36 INFO MainMenuPage: Check Main menu page is opened
+24/06/06 22:04:40 INFO MediaPage: Check Media page is opened
+24/06/06 22:04:40 DEBUG MediaPage: Post: post-4652 is recently created
+24/06/06 22:04:40 DEBUG MediaPage: Select checkbox
+24/06/06 22:04:40 DEBUG MediaPage: Post: post-4652 is selected
+24/06/06 22:04:41 DEBUG MediaPage: Delete post-4652
+24/06/06 22:04:41 DEBUG MediaPage: Looking for Apply button
+24/06/06 22:04:41 DEBUG MediaPage: Clicking for Apply button
+24/06/06 22:04:47 DEBUG MediaPage: Check post is deleted
+24/06/06 22:04:47 INFO BaseTest: After test method
+24/06/06 22:04:47 INFO Browser: Browser is closed
+24/06/06 22:04:47 INFO BaseTest: Before test method
+24/06/06 22:04:47 INFO Browser: Driver init
+24/06/06 22:04:47 DEBUG Browser: Init method of browser
+24/06/06 22:04:47 INFO BrowserFactory: Test try runs on browser : CHROME
+24/06/06 22:04:49 DEBUG BrowserFactory: Driver ChromeDriver: chrome on mac (ac16e2206806bc6fed85c6b2faf5a23a)
+24/06/06 22:04:53 INFO Browser: Browser is started
+24/06/06 22:04:53 INFO AuthentificationTest: Test is started
+24/06/06 22:04:53 DEBUG JsonUtil: Getting User model from Json
+24/06/06 22:04:53 DEBUG JsonUtil: Getting data from Json
+24/06/06 22:04:53 DEBUG JsonUtil: Getting User model from Json
+24/06/06 22:04:53 DEBUG JsonUtil: Getting data from Json
+24/06/06 22:04:53 DEBUG LoginPage: looking for Login input field
+24/06/06 22:04:53 DEBUG LoginPage: looking for Password input field
+24/06/06 22:04:53 DEBUG LoginPage: Entering login and password
+24/06/06 22:04:53 DEBUG LoginPage: Looking for Log in button
+24/06/06 22:04:53 DEBUG LoginPage: Clicking on Log in button
+24/06/06 22:04:59 INFO MainMenuPage: Check Main menu page is opened
+24/06/06 22:04:59 INFO AuthentificationTest: Test case is finished
+24/06/06 22:04:59 INFO BaseTest: After test method
+24/06/06 22:04:59 INFO Browser: Browser is closed
+24/06/06 22:04:59 INFO BaseTest: Before test method
+24/06/06 22:04:59 INFO Browser: Driver init
+24/06/06 22:04:59 DEBUG Browser: Init method of browser
+24/06/06 22:04:59 INFO BrowserFactory: Test try runs on browser : CHROME
+24/06/06 22:05:01 DEBUG BrowserFactory: Driver ChromeDriver: chrome on mac (50d788fdc902ea0ba88c889a13789b42)
+24/06/06 22:05:05 INFO Browser: Browser is started
+24/06/06 22:05:05 DEBUG JsonUtil: Getting User model from Json
+24/06/06 22:05:05 DEBUG JsonUtil: Getting data from Json
+24/06/06 22:05:05 DEBUG JsonUtil: Getting User model from Json
+24/06/06 22:05:05 DEBUG JsonUtil: Getting data from Json
+24/06/06 22:05:05 DEBUG LoginPage: looking for Login input field
+24/06/06 22:05:05 DEBUG LoginPage: looking for Password input field
+24/06/06 22:05:05 DEBUG LoginPage: Entering login and password
+24/06/06 22:05:05 DEBUG LoginPage: Looking for Log in button
+24/06/06 22:05:05 DEBUG LoginPage: Clicking on Log in button
+24/06/06 22:05:10 INFO MainMenuPage: Check Main menu page is opened
+24/06/06 22:05:10 INFO AuthentificationTest: Test case is finished
+24/06/06 22:05:14 INFO BaseTest: After test method
+24/06/06 22:05:14 INFO Browser: Browser is closed
+24/06/06 22:12:29 INFO BaseTest: Before test method
+24/06/06 22:12:29 INFO Browser: Driver init
+24/06/06 22:12:29 DEBUG Browser: Init method of browser
+24/06/06 22:12:29 INFO BrowserFactory: Test try runs on browser : CHROME
+24/06/06 22:12:33 DEBUG BrowserFactory: Driver ChromeDriver: chrome on mac (ff64d86b7b7f8dbadb4bbe79da4b667f)
+24/06/06 22:12:37 INFO Browser: Browser is started
+24/06/06 22:12:38 INFO MediaUploadTest: Test upload media is started
+24/06/06 22:12:38 DEBUG JsonUtil: Getting User model from Json
+24/06/06 22:12:38 DEBUG JsonUtil: Getting data from Json
+24/06/06 22:12:38 DEBUG JsonUtil: Getting User model from Json
+24/06/06 22:12:38 DEBUG JsonUtil: Getting data from Json
+24/06/06 22:12:38 DEBUG LoginPage: looking for Login input field
+24/06/06 22:12:38 DEBUG LoginPage: looking for Password input field
+24/06/06 22:12:38 DEBUG LoginPage: Entering login and password
+24/06/06 22:12:38 DEBUG LoginPage: Looking for Log in button
+24/06/06 22:12:38 DEBUG LoginPage: Clicking on Log in button
+24/06/06 22:12:43 INFO MainMenuPage: Check Main menu page is opened
+24/06/06 22:12:47 INFO MediaPage: Check Media page is opened
+24/06/06 22:12:47 DEBUG MediaPage: Looking for Add button
+24/06/06 22:12:47 DEBUG MediaPage: Clicking on Add button
+24/06/06 22:12:57 INFO MediaPage: Check Media page is opened
+24/06/06 22:12:57 INFO MediaUploadTest: Test upload media is ended
+24/06/06 22:12:57 INFO BaseTest: After test method
+24/06/06 22:12:57 INFO Browser: Browser is closed
+24/06/06 22:12:57 INFO BaseTest: Before test method
+24/06/06 22:12:57 INFO Browser: Driver init
+24/06/06 22:12:57 DEBUG Browser: Init method of browser
+24/06/06 22:12:57 INFO BrowserFactory: Test try runs on browser : CHROME
+24/06/06 22:12:59 DEBUG BrowserFactory: Driver ChromeDriver: chrome on mac (242cd6c9c7ac87c077a2375b1ad75ff5)
+24/06/06 22:13:03 INFO Browser: Browser is started
+24/06/06 22:13:03 INFO MediaUploadTest: Test delete uploaded media is started
+24/06/06 22:13:03 DEBUG JsonUtil: Getting User model from Json
+24/06/06 22:13:03 DEBUG JsonUtil: Getting data from Json
+24/06/06 22:13:03 DEBUG JsonUtil: Getting User model from Json
+24/06/06 22:13:03 DEBUG JsonUtil: Getting data from Json
+24/06/06 22:13:03 DEBUG LoginPage: looking for Login input field
+24/06/06 22:13:03 DEBUG LoginPage: looking for Password input field
+24/06/06 22:13:03 DEBUG LoginPage: Entering login and password
+24/06/06 22:13:03 DEBUG LoginPage: Looking for Log in button
+24/06/06 22:13:03 DEBUG LoginPage: Clicking on Log in button
+24/06/06 22:13:09 INFO MainMenuPage: Check Main menu page is opened
+24/06/06 22:13:12 INFO MediaPage: Check Media page is opened
+24/06/06 22:13:12 DEBUG MediaPage: Post: post-4653 is recently created
+24/06/06 22:13:13 DEBUG MediaPage: Select checkbox
+24/06/06 22:13:13 DEBUG MediaPage: Post: post-4653 is selected
+24/06/06 22:13:13 DEBUG MediaPage: Delete post-4653
+24/06/06 22:13:13 DEBUG MediaPage: Looking for Apply button
+24/06/06 22:13:13 DEBUG MediaPage: Clicking for Apply button
+24/06/06 22:13:19 DEBUG MediaPage: Check post is deleted
+24/06/06 22:13:19 INFO BaseTest: After test method
+24/06/06 22:13:20 INFO Browser: Browser is closed
+24/06/06 22:13:20 INFO BaseTest: Before test method
+24/06/06 22:13:20 INFO Browser: Driver init
+24/06/06 22:13:20 DEBUG Browser: Init method of browser
+24/06/06 22:13:20 INFO BrowserFactory: Test try runs on browser : CHROME
+24/06/06 22:13:21 DEBUG BrowserFactory: Driver ChromeDriver: chrome on mac (3a47d727e9227ea8c7e2a7f98ed397be)
+24/06/06 22:13:26 INFO Browser: Browser is started
+24/06/06 22:13:26 INFO AuthentificationTest: Test is started
+24/06/06 22:13:26 DEBUG JsonUtil: Getting User model from Json
+24/06/06 22:13:26 DEBUG JsonUtil: Getting data from Json
+24/06/06 22:13:26 DEBUG JsonUtil: Getting User model from Json
+24/06/06 22:13:26 DEBUG JsonUtil: Getting data from Json
+24/06/06 22:13:26 DEBUG LoginPage: looking for Login input field
+24/06/06 22:13:26 DEBUG LoginPage: looking for Password input field
+24/06/06 22:13:26 DEBUG LoginPage: Entering login and password
+24/06/06 22:13:26 DEBUG LoginPage: Looking for Log in button
+24/06/06 22:13:26 DEBUG LoginPage: Clicking on Log in button
+24/06/06 22:13:31 INFO MainMenuPage: Check Main menu page is opened
+24/06/06 22:13:32 INFO AuthentificationTest: Test case is finished
+24/06/06 22:13:32 INFO BaseTest: After test method
+24/06/06 22:13:32 INFO Browser: Browser is closed
+24/06/06 22:13:32 INFO BaseTest: Before test method
+24/06/06 22:13:32 INFO Browser: Driver init
+24/06/06 22:13:32 DEBUG Browser: Init method of browser
+24/06/06 22:13:32 INFO BrowserFactory: Test try runs on browser : CHROME
+24/06/06 22:13:34 DEBUG BrowserFactory: Driver ChromeDriver: chrome on mac (ef9d9c9cf17611a99e9b5ca39c8af2ac)
+24/06/06 22:13:37 INFO Browser: Browser is started
+24/06/06 22:13:37 DEBUG JsonUtil: Getting User model from Json
+24/06/06 22:13:37 DEBUG JsonUtil: Getting data from Json
+24/06/06 22:13:37 DEBUG JsonUtil: Getting User model from Json
+24/06/06 22:13:37 DEBUG JsonUtil: Getting data from Json
+24/06/06 22:13:37 DEBUG LoginPage: looking for Login input field
+24/06/06 22:13:38 DEBUG LoginPage: looking for Password input field
+24/06/06 22:13:38 DEBUG LoginPage: Entering login and password
+24/06/06 22:13:38 DEBUG LoginPage: Looking for Log in button
+24/06/06 22:13:38 DEBUG LoginPage: Clicking on Log in button
+24/06/06 22:13:43 INFO MainMenuPage: Check Main menu page is opened
+24/06/06 22:13:43 INFO AuthentificationTest: Test case is finished
+24/06/06 22:13:46 INFO BaseTest: After test method
+24/06/06 22:13:47 INFO Browser: Browser is closed
+24/06/06 22:13:47 INFO Browser: Driver init
+24/06/06 22:13:47 DEBUG Browser: Init method of browser
+24/06/06 22:13:47 INFO BrowserFactory: Test try runs on browser : CHROME
+24/06/06 22:13:49 DEBUG BrowserFactory: Driver ChromeDriver: chrome on mac (d7c336c5148f888a9d23a28eee3faaf0)
+24/06/06 22:13:52 INFO Browser: Browser is started
+24/06/06 22:13:52 INFO MediaUploadTest: Test create page is started
+24/06/06 22:13:52 DEBUG JsonUtil: Getting User model from Json
+24/06/06 22:13:52 DEBUG JsonUtil: Getting data from Json
+24/06/06 22:13:52 DEBUG JsonUtil: Getting User model from Json
+24/06/06 22:13:52 DEBUG JsonUtil: Getting data from Json
+24/06/06 22:13:52 DEBUG LoginPage: looking for Login input field
+24/06/06 22:13:52 DEBUG LoginPage: looking for Password input field
+24/06/06 22:13:52 DEBUG LoginPage: Entering login and password
+24/06/06 22:13:53 DEBUG LoginPage: Looking for Log in button
+24/06/06 22:13:53 DEBUG LoginPage: Clicking on Log in button
+24/06/06 22:14:09 INFO CreatePagePage: Click Publish button
+24/06/06 22:14:10 INFO CreatePagePage: Check page is created
+24/06/06 22:14:12 INFO CreatePagePage: Page post-4654 is created
+24/06/06 22:14:12 INFO MediaUploadTest: Test create page is ended
+24/06/06 22:14:12 INFO MediaUploadTest: Test delete created page is started
+24/06/06 22:14:12 INFO CreatePagePage: Click View posts
+24/06/06 22:14:14 DEBUG PagesPage: Post from Post page: post-4654 is recently created
+24/06/06 22:14:14 DEBUG PagesPage: Select checkbox
+24/06/06 22:14:15 DEBUG PagesPage: Post from Post page: post-4654 is selected
+24/06/06 22:14:15 DEBUG PagesPage: Delete post-4654
+24/06/06 22:14:15 DEBUG PagesPage: Looking for Apply button
+24/06/06 22:14:15 DEBUG PagesPage: Clicking for Apply button
+24/06/06 22:14:19 DEBUG PagesPage: Check post is deleted
+24/06/06 22:14:20 INFO Browser: Browser is closed
+24/06/06 22:14:20 INFO Browser: Driver init
+24/06/06 22:14:20 DEBUG Browser: Init method of browser
+24/06/06 22:14:20 INFO BrowserFactory: Test try runs on browser : CHROME
+24/06/06 22:14:22 DEBUG BrowserFactory: Driver ChromeDriver: chrome on mac (5bee3268e3b4dc0de2a882ef97a1b610)
+24/06/06 22:14:25 INFO Browser: Browser is started
+24/06/06 22:14:25 INFO PostCreateTest: Test create post is started
+24/06/06 22:14:25 DEBUG JsonUtil: Getting User model from Json
+24/06/06 22:14:25 DEBUG JsonUtil: Getting data from Json
+24/06/06 22:14:25 DEBUG JsonUtil: Getting User model from Json
+24/06/06 22:14:25 DEBUG JsonUtil: Getting data from Json
+24/06/06 22:14:25 DEBUG LoginPage: looking for Login input field
+24/06/06 22:14:25 DEBUG LoginPage: looking for Password input field
+24/06/06 22:14:25 DEBUG LoginPage: Entering login and password
+24/06/06 22:14:26 DEBUG LoginPage: Looking for Log in button
+24/06/06 22:14:26 DEBUG LoginPage: Clicking on Log in button
+24/06/06 22:14:33 INFO MainMenuPage: Check Main menu page is opened
+24/06/06 22:14:37 INFO PostsPage: Open Posts page
+24/06/06 22:14:46 INFO CreatePostPage: Creating a tag
+24/06/06 22:14:46 INFO CreatePostPage: Click Publish
+24/06/06 22:14:46 INFO CreatePostPage: Check post is created
+24/06/06 22:14:49 INFO CreatePostPage: Post post-4656 is created
+24/06/06 22:14:49 INFO PostCreateTest: Test create post is ended
+24/06/06 22:14:49 INFO PostCreateTest: Test delete post is started
+24/06/06 22:14:49 INFO CreatePostPage: Click View posts
+24/06/06 22:14:49 INFO PostsPage: Open Posts page
+24/06/06 22:14:53 DEBUG PostsPage: Post from Post page: post-4656 is recently created
+24/06/06 22:14:53 DEBUG PostsPage: Select checkbox
+24/06/06 22:14:53 DEBUG PostsPage: Post from Post page: post-4656 is selected
+24/06/06 22:14:54 DEBUG PostsPage: Delete post-4656
+24/06/06 22:14:54 DEBUG PostsPage: Looking for Apply button
+24/06/06 22:14:54 DEBUG PostsPage: Clicking for Apply button
+24/06/06 22:14:59 DEBUG PostsPage: Check post is deleted
+24/06/06 22:14:59 INFO Browser: Browser is closed
+24/06/06 22:14:59 INFO BaseTest: Before test method
+24/06/06 22:14:59 INFO Browser: Driver init
+24/06/06 22:14:59 DEBUG Browser: Init method of browser
+24/06/06 22:14:59 INFO BrowserFactory: Test try runs on browser : CHROME
+24/06/06 22:15:01 DEBUG BrowserFactory: Driver ChromeDriver: chrome on mac (7053006da2cf38d349cbb84736549643)
+24/06/06 22:15:05 INFO Browser: Browser is started
+24/06/06 22:15:05 INFO IncorrectLoginTest: Test incorrect login is started
+24/06/06 22:15:05 DEBUG JsonUtil: Getting User model from Json
+24/06/06 22:15:05 DEBUG JsonUtil: Getting data from Json
+24/06/06 22:15:05 DEBUG JsonUtil: Getting User model from Json
+24/06/06 22:15:05 DEBUG JsonUtil: Getting data from Json
+24/06/06 22:15:05 DEBUG LoginPage: looking for Login input field
+24/06/06 22:15:05 DEBUG LoginPage: looking for Password input field
+24/06/06 22:15:05 DEBUG LoginPage: Entering login and password
+24/06/06 22:15:05 DEBUG LoginPage: Looking for Log in button
+24/06/06 22:15:05 DEBUG LoginPage: Clicking on Log in button
+24/06/06 22:15:06 INFO IncorrectLoginTest: Test incorrect login is finished
+24/06/06 22:15:06 INFO BaseTest: After test method
+24/06/06 22:15:06 INFO Browser: Browser is closed
+24/06/07 17:08:28 INFO BaseTest: Before test method
+24/06/07 17:08:28 INFO Browser: Driver init
+24/06/07 17:08:28 DEBUG Browser: Init method of browser
+24/06/07 17:08:28 INFO BrowserFactory: Test try runs on browser : CHROME
+24/06/07 17:08:41 DEBUG BrowserFactory: Driver ChromeDriver: chrome on mac (036f0ed3ef24301f86ed33bcee17fb8b)
+24/06/07 17:08:44 INFO Browser: Browser is started
+24/06/07 17:08:45 INFO IncorrectLoginTest: Test incorrect login is started
+24/06/07 17:08:45 DEBUG JsonUtil: Getting User model from Json
+24/06/07 17:08:45 DEBUG JsonUtil: Getting data from Json
+24/06/07 17:08:45 DEBUG JsonUtil: Getting User model from Json
+24/06/07 17:08:45 DEBUG JsonUtil: Getting data from Json
+24/06/07 17:08:45 DEBUG LoginPage: looking for Login input field
+24/06/07 17:08:45 DEBUG LoginPage: looking for Password input field
+24/06/07 17:08:45 DEBUG LoginPage: Entering login and password
+24/06/07 17:08:45 DEBUG LoginPage: Looking for Log in button
+24/06/07 17:08:45 DEBUG LoginPage: Clicking on Log in button
+24/06/07 17:08:47 INFO IncorrectLoginTest: Test incorrect login is finished
+24/06/07 17:08:47 INFO BaseTest: After test method
+24/06/07 17:08:47 INFO Browser: Browser is closed
+24/06/08 00:15:19 INFO BaseTest: Before test method
+24/06/08 00:15:19 INFO Browser: Driver init
+24/06/08 00:15:19 DEBUG Browser: Init method of browser
+24/06/08 00:15:19 INFO BrowserFactory: Test try runs on browser : CHROME
+24/06/08 00:15:25 DEBUG BrowserFactory: Driver ChromeDriver: chrome on mac (f0c30615ef42fa5ac08e88e6b70d0f7f)
+24/06/08 00:15:31 INFO Browser: Browser is started
+24/06/08 00:15:32 INFO IncorrectLoginTest: Test incorrect login is started
+24/06/08 00:15:32 DEBUG JsonUtil: Getting User model from Json
+24/06/08 00:15:32 DEBUG JsonUtil: Getting data from Json
+24/06/08 00:15:32 DEBUG JsonUtil: Getting User model from Json
+24/06/08 00:15:32 DEBUG JsonUtil: Getting data from Json
+24/06/08 00:15:32 DEBUG LoginPage: looking for Login input field
+24/06/08 00:15:32 DEBUG LoginPage: looking for Password input field
+24/06/08 00:15:32 DEBUG LoginPage: Entering login and password
+24/06/08 00:15:32 DEBUG LoginPage: Looking for Log in button
+24/06/08 00:15:32 DEBUG LoginPage: Clicking on Log in button
+24/06/08 00:15:34 INFO IncorrectLoginTest: Test incorrect login is finished
+24/06/08 00:15:34 INFO BaseTest: After test method
+24/06/08 00:15:34 INFO Browser: Browser is closed
+24/06/08 00:17:00 INFO BaseTest: Before test method
+24/06/08 00:17:00 INFO Browser: Driver init
+24/06/08 00:17:00 DEBUG Browser: Init method of browser
+24/06/08 00:17:00 INFO BrowserFactory: Test try runs on browser : CHROME
+24/06/08 00:17:05 DEBUG BrowserFactory: Driver ChromeDriver: chrome on mac (d3a020b0b0218fb02d90e21cbb246c8b)
+24/06/08 00:17:09 INFO Browser: Browser is started
+24/06/08 00:17:10 INFO AuthentificationTest: Test is started
+24/06/08 00:17:10 DEBUG JsonUtil: Getting User model from Json
+24/06/08 00:17:10 DEBUG JsonUtil: Getting data from Json
+24/06/08 00:17:10 DEBUG JsonUtil: Getting User model from Json
+24/06/08 00:17:10 DEBUG JsonUtil: Getting data from Json
+24/06/08 00:17:10 DEBUG LoginPage: looking for Login input field
+24/06/08 00:17:10 DEBUG LoginPage: looking for Password input field
+24/06/08 00:17:10 DEBUG LoginPage: Entering login and password
+24/06/08 00:17:10 DEBUG LoginPage: Looking for Log in button
+24/06/08 00:17:10 DEBUG LoginPage: Clicking on Log in button
+24/06/08 00:17:21 INFO MainMenuPage: Check Main menu page is opened
+24/06/08 00:17:22 INFO AuthentificationTest: Test case is finished
+24/06/08 00:17:22 INFO BaseTest: After test method
+24/06/08 00:17:22 INFO Browser: Browser is closed
+24/06/08 00:17:22 INFO BaseTest: Before test method
+24/06/08 00:17:22 INFO Browser: Driver init
+24/06/08 00:17:22 DEBUG Browser: Init method of browser
+24/06/08 00:17:22 INFO BrowserFactory: Test try runs on browser : CHROME
+24/06/08 00:17:25 DEBUG BrowserFactory: Driver ChromeDriver: chrome on mac (319558ab2523f2f557f4348eefcfac96)
+24/06/08 00:17:29 INFO Browser: Browser is started
+24/06/08 00:17:29 DEBUG JsonUtil: Getting User model from Json
+24/06/08 00:17:29 DEBUG JsonUtil: Getting data from Json
+24/06/08 00:17:29 DEBUG JsonUtil: Getting User model from Json
+24/06/08 00:17:29 DEBUG JsonUtil: Getting data from Json
+24/06/08 00:17:29 DEBUG LoginPage: looking for Login input field
+24/06/08 00:17:29 DEBUG LoginPage: looking for Password input field
+24/06/08 00:17:29 DEBUG LoginPage: Entering login and password
+24/06/08 00:17:30 DEBUG LoginPage: Looking for Log in button
+24/06/08 00:17:30 DEBUG LoginPage: Clicking on Log in button
+24/06/08 00:17:36 INFO MainMenuPage: Check Main menu page is opened
+24/06/08 00:17:36 INFO AuthentificationTest: Test case is finished
+24/06/08 00:17:39 INFO BaseTest: After test method
+24/06/08 00:17:40 INFO Browser: Browser is closed
+24/06/08 00:17:40 INFO BaseTest: Before test method
+24/06/08 00:17:40 INFO Browser: Driver init
+24/06/08 00:17:40 DEBUG Browser: Init method of browser
+24/06/08 00:17:40 INFO BrowserFactory: Test try runs on browser : CHROME
+24/06/08 00:17:42 DEBUG BrowserFactory: Driver ChromeDriver: chrome on mac (a86570076ebf6b08091cb4829b6c087b)
+24/06/08 00:17:46 INFO Browser: Browser is started
+24/06/08 00:17:46 INFO IncorrectLoginTest: Test incorrect login is started
+24/06/08 00:17:46 DEBUG JsonUtil: Getting User model from Json
+24/06/08 00:17:46 DEBUG JsonUtil: Getting data from Json
+24/06/08 00:17:46 DEBUG JsonUtil: Getting User model from Json
+24/06/08 00:17:46 DEBUG JsonUtil: Getting data from Json
+24/06/08 00:17:46 DEBUG LoginPage: looking for Login input field
+24/06/08 00:17:46 DEBUG LoginPage: looking for Password input field
+24/06/08 00:17:46 DEBUG LoginPage: Entering login and password
+24/06/08 00:17:46 DEBUG LoginPage: Looking for Log in button
+24/06/08 00:17:47 DEBUG LoginPage: Clicking on Log in button
+24/06/08 00:17:48 INFO IncorrectLoginTest: Test incorrect login is finished
+24/06/08 00:17:48 INFO BaseTest: After test method
+24/06/08 00:17:48 INFO Browser: Browser is closed
+24/06/08 00:28:52 INFO BaseTest: Before test method
+24/06/08 00:28:52 INFO Browser: Driver init
+24/06/08 00:28:52 DEBUG Browser: Init method of browser
+24/06/08 00:28:52 INFO BrowserFactory: Test try runs on browser : CHROME
+24/06/08 00:28:54 DEBUG BrowserFactory: Driver null
+24/06/08 00:40:10 INFO BaseTest: Before test method
+24/06/08 00:40:10 INFO Browser: Driver init
+24/06/08 00:40:10 DEBUG Browser: Init method of browser
+24/06/08 00:40:10 INFO BrowserFactory: Test try runs on browser : CHROME
+24/06/08 00:40:16 DEBUG BrowserFactory: Driver ChromeDriver: chrome on mac (0dc313b85411048a4175a7a5b63fd203)
+24/06/08 00:40:20 INFO Browser: Browser is started
+24/06/08 00:40:20 INFO IncorrectLoginTest: Test incorrect login is started
+24/06/08 00:40:20 DEBUG JsonUtil: Getting User model from Json
+24/06/08 00:40:21 DEBUG JsonUtil: Getting data from Json
+24/06/08 00:40:21 DEBUG JsonUtil: Getting User model from Json
+24/06/08 00:40:21 DEBUG JsonUtil: Getting data from Json
+24/06/08 00:40:21 DEBUG LoginPage: looking for Login input field
+24/06/08 00:40:21 DEBUG LoginPage: looking for Password input field
+24/06/08 00:40:21 DEBUG LoginPage: Entering login and password
+24/06/08 00:40:21 DEBUG LoginPage: Looking for Log in button
+24/06/08 00:40:21 DEBUG LoginPage: Clicking on Log in button
+24/06/08 00:40:23 INFO IncorrectLoginTest: Test incorrect login is finished
+24/06/08 00:40:23 INFO BaseTest: After test method
+24/06/08 00:40:23 INFO Browser: Browser is closed
+24/06/08 01:04:29 INFO BaseTest: Before test method
+24/06/08 01:04:29 INFO Browser: Driver init
+24/06/08 01:04:29 DEBUG Browser: Init method of browser
+24/06/08 01:04:29 INFO BrowserFactory: Test try runs on browser : CHROME
+24/06/08 01:04:38 DEBUG BrowserFactory: Driver FirefoxDriver: firefox on mac (aa77f001-3614-4e3e-a9e7-e6474b92711d)
+24/06/08 01:04:48 INFO Browser: Browser is started
+24/06/08 01:04:49 INFO IncorrectLoginTest: Test incorrect login is started
+24/06/08 01:04:49 DEBUG JsonUtil: Getting User model from Json
+24/06/08 01:04:49 DEBUG JsonUtil: Getting data from Json
+24/06/08 01:04:49 DEBUG JsonUtil: Getting User model from Json
+24/06/08 01:04:49 DEBUG JsonUtil: Getting data from Json
+24/06/08 01:04:49 DEBUG LoginPage: looking for Login input field
+24/06/08 01:04:49 DEBUG LoginPage: looking for Password input field
+24/06/08 01:04:49 DEBUG LoginPage: Entering login and password
+24/06/08 01:04:49 DEBUG LoginPage: Looking for Log in button
+24/06/08 01:04:49 DEBUG LoginPage: Clicking on Log in button
+24/06/08 01:04:55 INFO IncorrectLoginTest: Test incorrect login is finished
+24/06/08 01:04:55 INFO BaseTest: After test method
+24/06/08 01:04:57 INFO Browser: Browser is closed
+24/06/08 01:16:48 INFO BaseTest: Before test method
+24/06/08 01:16:48 INFO Browser: Driver init
+24/06/08 01:16:48 DEBUG Browser: Init method of browser
+24/06/08 01:16:48 INFO BrowserFactory: Test try runs on browser : CHROME
+24/06/08 01:16:53 DEBUG BrowserFactory: Driver ChromeDriver: chrome on mac (1d6395ccf70bb4fb4e657cf9439abf1d)
+24/06/08 01:17:08 INFO Browser: Browser is started
+24/06/08 01:17:09 INFO IncorrectLoginTest: Test incorrect login is started
+24/06/08 01:17:09 DEBUG JsonUtil: Getting User model from Json
+24/06/08 01:17:09 DEBUG JsonUtil: Getting data from Json
+24/06/08 01:17:09 DEBUG JsonUtil: Getting User model from Json
+24/06/08 01:17:09 DEBUG JsonUtil: Getting data from Json
+24/06/08 01:17:09 DEBUG LoginPage: looking for Login input field
+24/06/08 01:17:09 DEBUG LoginPage: looking for Password input field
+24/06/08 01:17:09 DEBUG LoginPage: Entering login and password
+24/06/08 01:17:10 DEBUG LoginPage: Looking for Log in button
+24/06/08 01:17:10 DEBUG LoginPage: Clicking on Log in button
+24/06/08 01:17:18 INFO IncorrectLoginTest: Test incorrect login is finished
+24/06/08 01:17:18 INFO BaseTest: After test method
+24/06/08 01:17:18 INFO Browser: Browser is closed
+24/06/08 01:22:08 INFO BaseTest: Before test method
+24/06/08 01:22:08 INFO Browser: Driver init
+24/06/08 01:22:08 DEBUG Browser: Init method of browser
+24/06/08 01:22:08 INFO BrowserFactory: Test try runs on browser : CHROME
+24/06/08 01:22:09 DEBUG BrowserFactory: Driver null
+24/06/08 01:22:10 INFO BaseTest: Before test method
+24/06/08 01:22:10 INFO Browser: Driver init
+24/06/08 01:22:10 DEBUG Browser: Init method of browser
+24/06/08 01:22:10 INFO BrowserFactory: Test try runs on browser : CHROME
+24/06/08 01:22:10 DEBUG BrowserFactory: Driver null
+24/06/08 01:26:51 INFO BaseTest: Before test method
+24/06/08 01:26:51 INFO Browser: Driver init
+24/06/08 01:26:51 DEBUG Browser: Init method of browser
+24/06/08 01:26:51 INFO BrowserFactory: Test try runs on browser : CHROME
+24/06/08 01:27:16 INFO Browser: Browser is started
+24/06/08 01:27:16 INFO AuthentificationTest: Test login is started
+24/06/08 01:27:16 DEBUG JsonUtil: Getting User model from Json
+24/06/08 01:27:17 DEBUG JsonUtil: Getting data from Json
+24/06/08 01:27:17 DEBUG JsonUtil: Getting User model from Json
+24/06/08 01:27:17 DEBUG JsonUtil: Getting data from Json
+24/06/08 01:27:17 DEBUG LoginPage: looking for Login input field
+24/06/08 01:27:17 DEBUG LoginPage: looking for Password input field
+24/06/08 01:27:17 DEBUG LoginPage: Entering login and password
+24/06/08 01:27:17 DEBUG LoginPage: Looking for Log in button
+24/06/08 01:27:17 DEBUG LoginPage: Clicking on Log in button
+24/06/08 01:28:01 INFO MainMenuPage: Check Main menu page is opened
+24/06/08 01:28:02 INFO AuthentificationTest: Test login is finished
+24/06/08 01:28:02 INFO BaseTest: After test method
+24/06/08 01:28:02 INFO Browser: Browser is closed
+24/06/08 01:28:02 INFO BaseTest: Before test method
+24/06/08 01:28:02 INFO Browser: Driver init
+24/06/08 01:28:02 DEBUG Browser: Init method of browser
+24/06/08 01:28:02 INFO BrowserFactory: Test try runs on browser : CHROME
+24/06/08 01:28:24 INFO Browser: Browser is started
+24/06/08 01:28:24 INFO AuthentificationTest: Test logout is started
+24/06/08 01:28:24 DEBUG JsonUtil: Getting User model from Json
+24/06/08 01:28:24 DEBUG JsonUtil: Getting data from Json
+24/06/08 01:28:24 DEBUG JsonUtil: Getting User model from Json
+24/06/08 01:28:24 DEBUG JsonUtil: Getting data from Json
+24/06/08 01:28:24 DEBUG LoginPage: looking for Login input field
+24/06/08 01:28:24 DEBUG LoginPage: looking for Password input field
+24/06/08 01:28:24 DEBUG LoginPage: Entering login and password
+24/06/08 01:28:25 DEBUG LoginPage: Looking for Log in button
+24/06/08 01:28:25 DEBUG LoginPage: Clicking on Log in button
+24/06/08 01:28:59 INFO MainMenuPage: Check Main menu page is opened
+24/06/08 01:29:22 INFO AuthentificationTest: Test logout is finished
+24/06/08 01:29:22 INFO BaseTest: After test method
+24/06/08 01:29:23 INFO Browser: Browser is closed
+24/06/08 01:29:23 INFO BaseTest: Before test method
+24/06/08 01:29:23 INFO Browser: Driver init
+24/06/08 01:29:23 DEBUG Browser: Init method of browser
+24/06/08 01:29:23 INFO BrowserFactory: Test try runs on browser : CHROME
+24/06/08 01:29:45 INFO Browser: Browser is started
+24/06/08 01:29:45 INFO IncorrectLoginTest: Test incorrect login is started
+24/06/08 01:29:45 DEBUG JsonUtil: Getting User model from Json
+24/06/08 01:29:45 DEBUG JsonUtil: Getting data from Json
+24/06/08 01:29:45 DEBUG JsonUtil: Getting User model from Json
+24/06/08 01:29:45 DEBUG JsonUtil: Getting data from Json
+24/06/08 01:29:45 DEBUG LoginPage: looking for Login input field
+24/06/08 01:29:45 DEBUG LoginPage: looking for Password input field
+24/06/08 01:29:45 DEBUG LoginPage: Entering login and password
+24/06/08 01:29:45 DEBUG LoginPage: Looking for Log in button
+24/06/08 01:29:45 DEBUG LoginPage: Clicking on Log in button
+24/06/08 01:29:52 INFO IncorrectLoginTest: Test incorrect login is finished
+24/06/08 01:29:52 INFO BaseTest: After test method
+24/06/08 01:29:52 INFO Browser: Browser is closed
+24/06/08 01:41:06 INFO BaseTest: Before test method
+24/06/08 01:41:06 INFO Browser: Driver init
+24/06/08 01:41:06 DEBUG Browser: Init method of browser
+24/06/08 01:41:06 INFO BrowserFactory: Test try runs on browser : CHROME
+24/06/08 01:41:12 DEBUG BrowserFactory: Driver ChromeDriver: chrome on mac (e9e214e200302ef1ff26c22d9252651b)
+24/06/08 01:41:25 INFO Browser: Browser is started
+24/06/08 01:41:25 INFO IncorrectLoginTest: Test incorrect login is started
+24/06/08 01:41:25 DEBUG JsonUtil: Getting User model from Json
+24/06/08 01:41:25 DEBUG JsonUtil: Getting data from Json
+24/06/08 01:41:26 DEBUG JsonUtil: Getting User model from Json
+24/06/08 01:41:26 DEBUG JsonUtil: Getting data from Json
+24/06/08 01:41:26 DEBUG LoginPage: looking for Login input field
+24/06/08 01:41:26 DEBUG LoginPage: looking for Password input field
+24/06/08 01:41:26 DEBUG LoginPage: Entering login and password
+24/06/08 01:41:26 DEBUG LoginPage: Looking for Log in button
+24/06/08 01:41:26 DEBUG LoginPage: Clicking on Log in button
+24/06/08 01:41:32 INFO IncorrectLoginTest: Test incorrect login is finished
+24/06/08 01:41:32 INFO BaseTest: After test method
+24/06/08 01:41:33 INFO Browser: Browser is closed
+24/06/08 10:55:55 INFO BaseTest: Before test method
+24/06/08 10:55:56 INFO Browser: Driver init
+24/06/08 10:55:56 DEBUG Browser: Init method of browser
+24/06/08 10:55:56 INFO BrowserFactory: Test try runs on browser : CHROME
+24/06/08 10:56:01 DEBUG BrowserFactory: Driver ChromeDriver: chrome on mac (700a028f398d97466f81cb3973d8bfcb)
+24/06/08 10:56:25 INFO Browser: Browser is started
+24/06/08 10:56:26 INFO IncorrectLoginTest: Test incorrect login is started
+24/06/08 10:56:26 DEBUG JsonUtil: Getting User model from Json
+24/06/08 10:56:26 DEBUG JsonUtil: Getting data from Json
+24/06/08 10:56:26 DEBUG JsonUtil: Getting User model from Json
+24/06/08 10:56:26 DEBUG JsonUtil: Getting data from Json
+24/06/08 10:56:26 DEBUG LoginPage: looking for Login input field
+24/06/08 10:56:26 DEBUG LoginPage: looking for Password input field
+24/06/08 10:56:26 DEBUG LoginPage: Entering login and password
+24/06/08 10:56:26 DEBUG LoginPage: Looking for Log in button
+24/06/08 10:56:26 DEBUG LoginPage: Clicking on Log in button
+24/06/08 10:56:30 INFO IncorrectLoginTest: Test incorrect login is finished
+24/06/08 10:56:30 INFO BaseTest: After test method
+24/06/08 10:56:30 INFO Browser: Browser is closed
+24/06/08 11:04:03 INFO BaseTest: Before test method
+24/06/08 11:04:03 INFO Browser: Driver init
+24/06/08 11:04:03 DEBUG Browser: Init method of browser
+24/06/08 11:04:03 INFO BrowserFactory: Test try runs on browser : CHROME
+24/06/08 11:04:07 DEBUG BrowserFactory: Driver ChromeDriver: chrome on mac (6718e54c9e6e96cc30fed30576b01138)
+24/06/08 11:04:12 INFO Browser: Browser is started
+24/06/08 11:04:12 INFO IncorrectLoginTest: Test incorrect login is started
+24/06/08 11:04:12 DEBUG JsonUtil: Getting User model from Json
+24/06/08 11:04:12 DEBUG JsonUtil: Getting data from Json
+24/06/08 11:04:12 DEBUG JsonUtil: Getting User model from Json
+24/06/08 11:04:12 DEBUG JsonUtil: Getting data from Json
+24/06/08 11:04:12 DEBUG LoginPage: looking for Login input field
+24/06/08 11:04:12 DEBUG LoginPage: looking for Password input field
+24/06/08 11:04:12 DEBUG LoginPage: Entering login and password
+24/06/08 11:04:13 DEBUG LoginPage: Looking for Log in button
+24/06/08 11:04:13 DEBUG LoginPage: Clicking on Log in button
+24/06/08 11:04:14 INFO IncorrectLoginTest: Test incorrect login is finished
+24/06/08 11:04:14 INFO BaseTest: After test method
+24/06/08 11:04:15 INFO Browser: Browser is closed
+24/06/08 11:05:04 INFO BaseTest: Before test method
+24/06/08 11:05:04 INFO Browser: Driver init
+24/06/08 11:05:04 DEBUG Browser: Init method of browser
+24/06/08 11:05:04 INFO BrowserFactory: Test try runs on browser : CHROME
+24/06/08 11:05:09 DEBUG BrowserFactory: Driver ChromeDriver: chrome on mac (62ea7edaf4e8b3149823a2d06b0ede5c)
+24/06/08 11:05:13 INFO Browser: Browser is started
+24/06/08 11:05:14 INFO IncorrectLoginTest: Test incorrect login is started
+24/06/08 11:05:14 DEBUG JsonUtil: Getting User model from Json
+24/06/08 11:05:14 DEBUG JsonUtil: Getting data from Json
+24/06/08 11:05:14 DEBUG JsonUtil: Getting User model from Json
+24/06/08 11:05:14 DEBUG JsonUtil: Getting data from Json
+24/06/08 11:05:14 DEBUG LoginPage: looking for Login input field
+24/06/08 11:05:14 DEBUG LoginPage: looking for Password input field
+24/06/08 11:05:14 DEBUG LoginPage: Entering login and password
+24/06/08 11:05:15 DEBUG LoginPage: Looking for Log in button
+24/06/08 11:05:15 DEBUG LoginPage: Clicking on Log in button
+24/06/08 11:05:16 INFO IncorrectLoginTest: Test incorrect login is finished
+24/06/08 11:05:16 INFO BaseTest: After test method
+24/06/08 11:05:17 INFO Browser: Browser is closed
+24/06/08 11:05:17 INFO BaseTest: Before test method
+24/06/08 11:05:17 INFO Browser: Driver init
+24/06/08 11:05:17 DEBUG Browser: Init method of browser
+24/06/08 11:05:17 INFO BrowserFactory: Test try runs on browser : CHROME
+24/06/08 11:05:19 DEBUG BrowserFactory: Driver ChromeDriver: chrome on mac (57506309209b72e5aa09258c6a3a888b)
+24/06/08 11:05:23 INFO Browser: Browser is started
+24/06/08 11:05:23 INFO AuthentificationTest: Test login is started
+24/06/08 11:05:23 DEBUG JsonUtil: Getting User model from Json
+24/06/08 11:05:23 DEBUG JsonUtil: Getting data from Json
+24/06/08 11:05:23 DEBUG JsonUtil: Getting User model from Json
+24/06/08 11:05:23 DEBUG JsonUtil: Getting data from Json
+24/06/08 11:05:23 DEBUG LoginPage: looking for Login input field
+24/06/08 11:05:23 DEBUG LoginPage: looking for Password input field
+24/06/08 11:05:23 DEBUG LoginPage: Entering login and password
+24/06/08 11:05:24 DEBUG LoginPage: Looking for Log in button
+24/06/08 11:05:24 DEBUG LoginPage: Clicking on Log in button
+24/06/08 11:05:33 INFO MainMenuPage: Check Main menu page is opened
+24/06/08 11:05:34 INFO AuthentificationTest: Test login is finished
+24/06/08 11:05:34 INFO BaseTest: After test method
+24/06/08 11:05:35 INFO Browser: Browser is closed
+24/06/08 11:05:35 INFO BaseTest: Before test method
+24/06/08 11:05:35 INFO Browser: Driver init
+24/06/08 11:05:35 DEBUG Browser: Init method of browser
+24/06/08 11:05:35 INFO BrowserFactory: Test try runs on browser : CHROME
+24/06/08 11:05:37 DEBUG BrowserFactory: Driver ChromeDriver: chrome on mac (338cb79083da4d4a1e9774d8340d477b)
+24/06/08 11:05:41 INFO Browser: Browser is started
+24/06/08 11:05:41 INFO AuthentificationTest: Test logout is started
+24/06/08 11:05:41 DEBUG JsonUtil: Getting User model from Json
+24/06/08 11:05:41 DEBUG JsonUtil: Getting data from Json
+24/06/08 11:05:41 DEBUG JsonUtil: Getting User model from Json
+24/06/08 11:05:41 DEBUG JsonUtil: Getting data from Json
+24/06/08 11:05:41 DEBUG LoginPage: looking for Login input field
+24/06/08 11:05:42 DEBUG LoginPage: looking for Password input field
+24/06/08 11:05:42 DEBUG LoginPage: Entering login and password
+24/06/08 11:05:42 DEBUG LoginPage: Looking for Log in button
+24/06/08 11:05:42 DEBUG LoginPage: Clicking on Log in button
+24/06/08 11:05:48 INFO MainMenuPage: Check Main menu page is opened
+24/06/08 11:05:52 INFO AuthentificationTest: Test logout is finished
+24/06/08 11:05:52 INFO BaseTest: After test method
+24/06/08 11:05:53 INFO Browser: Browser is closed
+24/06/09 20:55:16 INFO BaseTest: Before test method
+24/06/09 20:55:16 INFO Browser: Driver init
+24/06/09 20:55:16 DEBUG Browser: Init method of browser
+24/06/09 20:55:16 INFO BrowserFactory: Test try runs on browser : CHROME
+24/06/09 20:55:35 DEBUG BrowserFactory: Driver FirefoxDriver: firefox on mac (d87a3b88-d028-4126-844a-e27e7d976b18)
+24/06/09 20:55:41 INFO Browser: Browser is started
+24/06/09 20:55:42 INFO IncorrectLoginTest: Test incorrect login is started
+24/06/09 20:55:42 DEBUG JsonUtil: Getting User model from Json
+24/06/09 20:55:43 DEBUG JsonUtil: Getting data from Json
+24/06/09 20:55:43 DEBUG JsonUtil: Getting User model from Json
+24/06/09 20:55:43 DEBUG JsonUtil: Getting data from Json
+24/06/09 20:55:43 DEBUG LoginPage: looking for Login input field
+24/06/09 20:55:43 DEBUG LoginPage: looking for Password input field
+24/06/09 20:55:43 DEBUG LoginPage: Entering login and password
+24/06/09 20:55:43 DEBUG LoginPage: Looking for Log in button
+24/06/09 20:55:43 DEBUG LoginPage: Clicking on Log in button
+24/06/09 20:55:45 INFO IncorrectLoginTest: Test incorrect login is finished
+24/06/09 20:55:45 INFO BaseTest: After test method
+24/06/09 20:55:48 INFO Browser: Browser is closed
+24/06/09 20:55:48 INFO BaseTest: Before test method
+24/06/09 20:55:48 INFO Browser: Driver init
+24/06/09 20:55:48 DEBUG Browser: Init method of browser
+24/06/09 20:55:48 INFO BrowserFactory: Test try runs on browser : CHROME
+24/06/09 20:55:58 DEBUG BrowserFactory: Driver FirefoxDriver: firefox on mac (d4c75f3d-629a-4d17-b407-a47708f6303c)
+24/06/09 20:56:03 INFO Browser: Browser is started
+24/06/09 20:56:03 INFO AuthentificationTest: Test login is started
+24/06/09 20:56:03 DEBUG JsonUtil: Getting User model from Json
+24/06/09 20:56:03 DEBUG JsonUtil: Getting data from Json
+24/06/09 20:56:03 DEBUG JsonUtil: Getting User model from Json
+24/06/09 20:56:03 DEBUG JsonUtil: Getting data from Json
+24/06/09 20:56:03 DEBUG LoginPage: looking for Login input field
+24/06/09 20:56:04 DEBUG LoginPage: looking for Password input field
+24/06/09 20:56:04 DEBUG LoginPage: Entering login and password
+24/06/09 20:56:04 DEBUG LoginPage: Looking for Log in button
+24/06/09 20:56:04 DEBUG LoginPage: Clicking on Log in button
+24/06/09 20:56:09 INFO MainMenuPage: Check Main menu page is opened
+24/06/09 20:56:16 INFO AuthentificationTest: Test login is finished
+24/06/09 20:56:16 INFO BaseTest: After test method
+24/06/09 20:56:20 INFO Browser: Browser is closed
+24/06/09 20:56:20 INFO BaseTest: Before test method
+24/06/09 20:56:20 INFO Browser: Driver init
+24/06/09 20:56:20 DEBUG Browser: Init method of browser
+24/06/09 20:56:20 INFO BrowserFactory: Test try runs on browser : CHROME
+24/06/09 20:56:31 DEBUG BrowserFactory: Driver FirefoxDriver: firefox on mac (23fa3ad2-6ffa-4a8d-b93e-6c90581d61aa)
+24/06/09 20:56:36 INFO Browser: Browser is started
+24/06/09 20:56:36 INFO AuthentificationTest: Test logout is started
+24/06/09 20:56:36 DEBUG JsonUtil: Getting User model from Json
+24/06/09 20:56:36 DEBUG JsonUtil: Getting data from Json
+24/06/09 20:56:36 DEBUG JsonUtil: Getting User model from Json
+24/06/09 20:56:36 DEBUG JsonUtil: Getting data from Json
+24/06/09 20:56:36 DEBUG LoginPage: looking for Login input field
+24/06/09 20:56:36 DEBUG LoginPage: looking for Password input field
+24/06/09 20:56:36 DEBUG LoginPage: Entering login and password
+24/06/09 20:56:37 DEBUG LoginPage: Looking for Log in button
+24/06/09 20:56:37 DEBUG LoginPage: Clicking on Log in button
+24/06/09 20:56:43 INFO MainMenuPage: Check Main menu page is opened
+24/06/09 20:56:43 INFO BaseTest: After test method
+24/06/09 20:56:46 INFO Browser: Browser is closed
+24/06/09 21:07:44 INFO BaseTest: Before test method
+24/06/09 21:07:44 INFO Browser: Driver init
+24/06/09 21:07:44 DEBUG Browser: Init method of browser
+24/06/09 21:07:44 INFO BrowserFactory: Test try runs on browser : CHROME
+24/06/09 21:07:45 INFO BaseTest: Before test method
+24/06/09 21:07:45 INFO Browser: Driver init
+24/06/09 21:07:45 DEBUG Browser: Init method of browser
+24/06/09 21:07:45 INFO BrowserFactory: Test try runs on browser : CHROME
+24/06/09 21:08:18 INFO BaseTest: Before test method
+24/06/09 21:08:18 INFO Browser: Driver init
+24/06/09 21:08:18 DEBUG Browser: Init method of browser
+24/06/09 21:08:18 INFO BrowserFactory: Test try runs on browser : CHROME
+24/06/09 21:08:27 DEBUG BrowserFactory: Driver FirefoxDriver: firefox on mac (721ebde4-0deb-4471-b5bb-392f7997f4f4)
+24/06/09 21:08:31 INFO Browser: Browser is started
+24/06/09 21:08:31 INFO IncorrectLoginTest: Test incorrect login is started
+24/06/09 21:08:31 DEBUG JsonUtil: Getting User model from Json
+24/06/09 21:08:31 DEBUG JsonUtil: Getting data from Json
+24/06/09 21:08:31 DEBUG JsonUtil: Getting User model from Json
+24/06/09 21:08:31 DEBUG JsonUtil: Getting data from Json
+24/06/09 21:08:31 DEBUG LoginPage: looking for Login input field
+24/06/09 21:08:31 DEBUG LoginPage: looking for Password input field
+24/06/09 21:08:31 DEBUG LoginPage: Entering login and password
+24/06/09 21:08:32 DEBUG LoginPage: Looking for Log in button
+24/06/09 21:08:32 DEBUG LoginPage: Clicking on Log in button
+24/06/09 21:08:33 INFO IncorrectLoginTest: Test incorrect login is finished
+24/06/09 21:08:33 INFO BaseTest: After test method
+24/06/09 21:08:35 INFO Browser: Browser is closed
+24/06/09 21:08:35 INFO BaseTest: Before test method
+24/06/09 21:08:35 INFO Browser: Driver init
+24/06/09 21:08:35 DEBUG Browser: Init method of browser
+24/06/09 21:08:35 INFO BrowserFactory: Test try runs on browser : CHROME
+24/06/09 21:08:39 DEBUG BrowserFactory: Driver FirefoxDriver: firefox on mac (68a286ee-ae0f-4ee2-8458-4318db8aa981)
+24/06/09 21:08:43 INFO Browser: Browser is started
+24/06/09 21:08:43 INFO AuthentificationTest: Test login is started
+24/06/09 21:08:43 DEBUG JsonUtil: Getting User model from Json
+24/06/09 21:08:43 DEBUG JsonUtil: Getting data from Json
+24/06/09 21:08:43 DEBUG JsonUtil: Getting User model from Json
+24/06/09 21:08:43 DEBUG JsonUtil: Getting data from Json
+24/06/09 21:08:43 DEBUG LoginPage: looking for Login input field
+24/06/09 21:08:43 DEBUG LoginPage: looking for Password input field
+24/06/09 21:08:43 DEBUG LoginPage: Entering login and password
+24/06/09 21:08:43 DEBUG LoginPage: Looking for Log in button
+24/06/09 21:08:43 DEBUG LoginPage: Clicking on Log in button
+24/06/09 21:08:49 INFO MainMenuPage: Check Main menu page is opened
+24/06/09 21:08:49 INFO AuthentificationTest: Test login is finished
+24/06/09 21:08:49 INFO BaseTest: After test method
+24/06/09 21:08:51 INFO Browser: Browser is closed
+24/06/09 21:08:51 INFO BaseTest: Before test method
+24/06/09 21:08:51 INFO Browser: Driver init
+24/06/09 21:08:51 DEBUG Browser: Init method of browser
+24/06/09 21:08:51 INFO BrowserFactory: Test try runs on browser : CHROME
+24/06/09 21:08:57 DEBUG BrowserFactory: Driver FirefoxDriver: firefox on mac (178f3bcb-a864-4bf5-8a39-473fc928b8ba)
+24/06/09 21:09:01 INFO Browser: Browser is started
+24/06/09 21:09:01 INFO AuthentificationTest: Test logout is started
+24/06/09 21:09:01 DEBUG JsonUtil: Getting User model from Json
+24/06/09 21:09:01 DEBUG JsonUtil: Getting data from Json
+24/06/09 21:09:01 DEBUG JsonUtil: Getting User model from Json
+24/06/09 21:09:01 DEBUG JsonUtil: Getting data from Json
+24/06/09 21:09:01 DEBUG LoginPage: looking for Login input field
+24/06/09 21:09:01 DEBUG LoginPage: looking for Password input field
+24/06/09 21:09:01 DEBUG LoginPage: Entering login and password
+24/06/09 21:09:01 DEBUG LoginPage: Looking for Log in button
+24/06/09 21:09:01 DEBUG LoginPage: Clicking on Log in button
+24/06/09 21:09:06 INFO MainMenuPage: Check Main menu page is opened
+24/06/09 21:09:07 INFO BaseTest: After test method
+24/06/09 21:09:08 INFO Browser: Browser is closed
+24/06/09 21:10:02 INFO BaseTest: Before test method
+24/06/09 21:10:02 INFO Browser: Driver init
+24/06/09 21:10:02 DEBUG Browser: Init method of browser
+24/06/09 21:10:02 INFO BrowserFactory: Test try runs on browser : CHROME
+24/06/09 21:10:06 DEBUG BrowserFactory: Driver ChromeDriver: chrome on mac (3b00914abba278261cd7a670a42be9d1)
+24/06/09 21:10:10 INFO Browser: Browser is started
+24/06/09 21:10:11 INFO IncorrectLoginTest: Test incorrect login is started
+24/06/09 21:10:11 DEBUG JsonUtil: Getting User model from Json
+24/06/09 21:10:11 DEBUG JsonUtil: Getting data from Json
+24/06/09 21:10:11 DEBUG JsonUtil: Getting User model from Json
+24/06/09 21:10:11 DEBUG JsonUtil: Getting data from Json
+24/06/09 21:10:11 DEBUG LoginPage: looking for Login input field
+24/06/09 21:10:11 DEBUG LoginPage: looking for Password input field
+24/06/09 21:10:11 DEBUG LoginPage: Entering login and password
+24/06/09 21:10:11 DEBUG LoginPage: Looking for Log in button
+24/06/09 21:10:11 DEBUG LoginPage: Clicking on Log in button
+24/06/09 21:10:13 INFO IncorrectLoginTest: Test incorrect login is finished
+24/06/09 21:10:13 INFO BaseTest: After test method
+24/06/09 21:10:13 INFO Browser: Browser is closed
+24/06/09 21:10:13 INFO BaseTest: Before test method
+24/06/09 21:10:13 INFO Browser: Driver init
+24/06/09 21:10:13 DEBUG Browser: Init method of browser
+24/06/09 21:10:13 INFO BrowserFactory: Test try runs on browser : CHROME
+24/06/09 21:10:15 DEBUG BrowserFactory: Driver ChromeDriver: chrome on mac (dee0dd8a374031942e0a80ec50e47997)
+24/06/09 21:10:19 INFO Browser: Browser is started
+24/06/09 21:10:19 INFO AuthentificationTest: Test login is started
+24/06/09 21:10:19 DEBUG JsonUtil: Getting User model from Json
+24/06/09 21:10:19 DEBUG JsonUtil: Getting data from Json
+24/06/09 21:10:19 DEBUG JsonUtil: Getting User model from Json
+24/06/09 21:10:19 DEBUG JsonUtil: Getting data from Json
+24/06/09 21:10:19 DEBUG LoginPage: looking for Login input field
+24/06/09 21:10:19 DEBUG LoginPage: looking for Password input field
+24/06/09 21:10:19 DEBUG LoginPage: Entering login and password
+24/06/09 21:10:20 DEBUG LoginPage: Looking for Log in button
+24/06/09 21:10:20 DEBUG LoginPage: Clicking on Log in button
+24/06/09 21:10:25 INFO MainMenuPage: Check Main menu page is opened
+24/06/09 21:10:26 INFO AuthentificationTest: Test login is finished
+24/06/09 21:10:26 INFO BaseTest: After test method
+24/06/09 21:10:26 INFO Browser: Browser is closed
+24/06/09 21:10:26 INFO BaseTest: Before test method
+24/06/09 21:10:26 INFO Browser: Driver init
+24/06/09 21:10:26 DEBUG Browser: Init method of browser
+24/06/09 21:10:26 INFO BrowserFactory: Test try runs on browser : CHROME
+24/06/09 21:10:28 DEBUG BrowserFactory: Driver ChromeDriver: chrome on mac (1b192e8bccb03b7c58789d7438a4a327)
+24/06/09 21:10:32 INFO Browser: Browser is started
+24/06/09 21:10:32 INFO AuthentificationTest: Test logout is started
+24/06/09 21:10:32 DEBUG JsonUtil: Getting User model from Json
+24/06/09 21:10:32 DEBUG JsonUtil: Getting data from Json
+24/06/09 21:10:32 DEBUG JsonUtil: Getting User model from Json
+24/06/09 21:10:32 DEBUG JsonUtil: Getting data from Json
+24/06/09 21:10:32 DEBUG LoginPage: looking for Login input field
+24/06/09 21:10:33 DEBUG LoginPage: looking for Password input field
+24/06/09 21:10:33 DEBUG LoginPage: Entering login and password
+24/06/09 21:10:33 DEBUG LoginPage: Looking for Log in button
+24/06/09 21:10:33 DEBUG LoginPage: Clicking on Log in button
+24/06/09 21:10:38 INFO MainMenuPage: Check Main menu page is opened
+24/06/09 21:10:42 INFO AuthentificationTest: Test logout is finished
+24/06/09 21:10:42 INFO BaseTest: After test method
+24/06/09 21:10:42 INFO Browser: Browser is closed
+24/06/09 21:26:19 INFO BaseTest: Before test method
+24/06/09 21:26:19 INFO Browser: Driver init
+24/06/09 21:26:19 DEBUG Browser: Init method of browser
+24/06/09 21:26:19 INFO BrowserFactory: Test try runs on browser : CHROME
+24/06/09 21:26:25 DEBUG BrowserFactory: Driver ChromeDriver: chrome on mac (03877cc0a5189fffb2d6b5da493c2c4f)
+24/06/09 21:26:30 INFO Browser: Browser is started
+24/06/09 21:26:31 INFO IncorrectLoginTest: Test incorrect login is started
+24/06/09 21:26:31 DEBUG JsonUtil: Getting User model from Json
+24/06/09 21:26:31 DEBUG JsonUtil: Getting data from Json
+24/06/09 21:26:31 DEBUG JsonUtil: Getting User model from Json
+24/06/09 21:26:31 DEBUG JsonUtil: Getting data from Json
+24/06/09 21:26:31 DEBUG LoginPage: looking for Login input field
+24/06/09 21:26:31 DEBUG LoginPage: looking for Password input field
+24/06/09 21:26:31 DEBUG LoginPage: Entering login and password
+24/06/09 21:26:31 DEBUG LoginPage: Looking for Log in button
+24/06/09 21:26:31 DEBUG LoginPage: Clicking on Log in button
+24/06/09 21:26:33 INFO IncorrectLoginTest: Test incorrect login is finished
+24/06/09 21:26:33 INFO BaseTest: After test method
+24/06/09 21:26:33 INFO Browser: Browser is closed
+24/06/09 21:45:07 INFO BaseTest: Before test method
+24/06/09 21:45:07 INFO Browser: Driver init
+24/06/09 21:45:07 DEBUG Browser: Init method of browser
+24/06/09 21:45:07 INFO BrowserFactory: Test try runs on browser : CHROME
+24/06/09 21:46:04 INFO BaseTest: Before test method
+24/06/09 21:46:04 INFO Browser: Driver init
+24/06/09 21:46:04 DEBUG Browser: Init method of browser
+24/06/09 21:46:04 INFO BrowserFactory: Test try runs on browser : CHROME
+24/06/09 21:46:08 DEBUG BrowserFactory: Driver ChromeDriver: chrome on mac (6dcf7563492c12b7a22b4a19fa82c190)
+24/06/09 21:46:12 INFO Browser: Browser is started
+24/06/09 21:46:12 INFO AuthentificationTest: Test logout is started
+24/06/09 21:46:12 DEBUG JsonUtil: Getting User model from Json
+24/06/09 21:46:13 DEBUG JsonUtil: Getting data from Json
+24/06/09 21:46:13 DEBUG JsonUtil: Getting User model from Json
+24/06/09 21:46:13 DEBUG JsonUtil: Getting data from Json
+24/06/09 21:46:13 DEBUG LoginPage: looking for Login input field
+24/06/09 21:46:13 DEBUG LoginPage: looking for Password input field
+24/06/09 21:46:13 DEBUG LoginPage: Entering login and password
+24/06/09 21:46:13 DEBUG LoginPage: Looking for Log in button
+24/06/09 21:46:13 DEBUG LoginPage: Clicking on Log in button
+24/06/09 21:46:19 INFO MainMenuPage: Check Main menu page is opened
+24/06/09 21:46:22 INFO AuthentificationTest: Test logout is finished
+24/06/09 21:46:22 INFO BaseTest: After test method
+24/06/09 21:46:23 INFO Browser: Browser is closed
+24/06/09 21:51:20 INFO BaseTest: Before test method
+24/06/09 21:51:20 INFO Browser: Driver init
+24/06/09 21:51:20 DEBUG Browser: Init method of browser
+24/06/09 21:51:20 INFO BrowserFactory: Test try runs on browser : CHROME
+24/06/09 21:51:25 DEBUG BrowserFactory: Driver ChromeDriver: chrome on mac (692725a79c6173349df42611db7540b0)
+24/06/09 21:51:29 INFO Browser: Browser is started
+24/06/09 21:51:30 INFO IncorrectLoginTest: Test incorrect login is started
+24/06/09 21:51:30 DEBUG JsonUtil: Getting User model from Json
+24/06/09 21:51:30 DEBUG JsonUtil: Getting data from Json
+24/06/09 21:51:30 DEBUG JsonUtil: Getting User model from Json
+24/06/09 21:51:30 DEBUG JsonUtil: Getting data from Json
+24/06/09 21:51:30 DEBUG LoginPage: looking for Login input field
+24/06/09 21:51:30 DEBUG LoginPage: looking for Password input field
+24/06/09 21:51:30 DEBUG LoginPage: Entering login and password
+24/06/09 21:51:30 DEBUG LoginPage: Looking for Log in button
+24/06/09 21:51:30 DEBUG LoginPage: Clicking on Log in button
+24/06/09 21:51:32 INFO IncorrectLoginTest: Test incorrect login is finished
+24/06/09 21:51:32 INFO BaseTest: After test method
+24/06/09 21:51:32 INFO Browser: Browser is closed
+24/06/09 21:51:32 INFO BaseTest: Before test method
+24/06/09 21:51:32 INFO Browser: Driver init
+24/06/09 21:51:32 DEBUG Browser: Init method of browser
+24/06/09 21:51:32 INFO BrowserFactory: Test try runs on browser : CHROME
+24/06/09 21:51:35 DEBUG BrowserFactory: Driver ChromeDriver: chrome on mac (6fd4ae5c87c3ea49c964d5e4fcecc548)
+24/06/09 21:51:38 INFO Browser: Browser is started
+24/06/09 21:51:38 INFO AuthentificationTest: Test login is started
+24/06/09 21:51:38 DEBUG JsonUtil: Getting User model from Json
+24/06/09 21:51:38 DEBUG JsonUtil: Getting data from Json
+24/06/09 21:51:38 DEBUG JsonUtil: Getting User model from Json
+24/06/09 21:51:38 DEBUG JsonUtil: Getting data from Json
+24/06/09 21:51:38 DEBUG LoginPage: looking for Login input field
+24/06/09 21:51:38 DEBUG LoginPage: looking for Password input field
+24/06/09 21:51:38 DEBUG LoginPage: Entering login and password
+24/06/09 21:51:38 DEBUG LoginPage: Looking for Log in button
+24/06/09 21:51:38 DEBUG LoginPage: Clicking on Log in button
+24/06/09 21:51:44 INFO MainMenuPage: Check Main menu page is opened
+24/06/09 21:51:45 INFO AuthentificationTest: Test login is finished
+24/06/09 21:51:45 INFO BaseTest: After test method
+24/06/09 21:51:45 INFO Browser: Browser is closed
+24/06/09 21:51:45 INFO BaseTest: Before test method
+24/06/09 21:51:45 INFO Browser: Driver init
+24/06/09 21:51:45 DEBUG Browser: Init method of browser
+24/06/09 21:51:45 INFO BrowserFactory: Test try runs on browser : CHROME
+24/06/09 21:51:47 DEBUG BrowserFactory: Driver ChromeDriver: chrome on mac (4f80fedae0bb6ca45a2b20deb6584e1d)
+24/06/09 21:51:51 INFO Browser: Browser is started
+24/06/09 21:51:51 INFO AuthentificationTest: Test logout is started
+24/06/09 21:51:51 DEBUG JsonUtil: Getting User model from Json
+24/06/09 21:51:51 DEBUG JsonUtil: Getting data from Json
+24/06/09 21:51:51 DEBUG JsonUtil: Getting User model from Json
+24/06/09 21:51:51 DEBUG JsonUtil: Getting data from Json
+24/06/09 21:51:51 DEBUG LoginPage: looking for Login input field
+24/06/09 21:51:51 DEBUG LoginPage: looking for Password input field
+24/06/09 21:51:51 DEBUG LoginPage: Entering login and password
+24/06/09 21:51:52 DEBUG LoginPage: Looking for Log in button
+24/06/09 21:51:52 DEBUG LoginPage: Clicking on Log in button
+24/06/09 21:51:57 INFO MainMenuPage: Check Main menu page is opened
+24/06/09 21:52:00 INFO AuthentificationTest: Test logout is finished
+24/06/09 21:52:00 INFO BaseTest: After test method
+24/06/09 21:52:00 INFO Browser: Browser is closed
